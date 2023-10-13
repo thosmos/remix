@@ -45,7 +45,7 @@ For more information on using the View Transitions API, please refer to the [Smo
 
 ### Stable `createRemixStub`
 
-After real-world experience, we're confident in the `createRemixStub` API and ready to commit to it, so in `2.1.0` we've removed the `unstable_` prefix. ([#7647](https://github.com/remix-run/remix/pull/7647))
+After real-world experience, we're confident in the [`createRemixStub`](https://remix.run/docs/utils/create-remix-stub) API and ready to commit to it, so in `2.1.0` we've removed the `unstable_` prefix. ([#7647](https://github.com/remix-run/remix/pull/7647))
 
 ⚠️ Please note that this did involve 1 _small_ breaking change - the `<RemixStub remixConfigFuture>` prop has been renamed to `<RemixStub future>` to decouple the `future` prop from a specific file location.
 

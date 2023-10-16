@@ -2,7 +2,7 @@
 
 ## Minor Changes
 
-### View Transitions
+### View Transitions 🚀
 
 We're excited to release experimental support for the the [View Transitions API](https://developer.mozilla.org/en-US/docs/Web/API/ViewTransition) in React Router! You can now trigger navigational DOM updates to be wrapped in `document.startViewTransition` to enable CSS animated transitions on SPA navigations in your application. ([#10916](https://github.com/remix-run/react-router/pull/10916))
 
@@ -58,7 +58,7 @@ For more information on using the View Transitions API, please refer to the [Smo
 
 ## Minor Changes
 
-### View Transitions
+### View Transitions 🚀
 
 We're excited to release experimental support for the the [View Transitions API](https://developer.mozilla.org/en-US/docs/Web/API/ViewTransition) in Remix! You can now trigger navigational DOM updates to be wrapped in `document.startViewTransition` to enable CSS animated transitions on SPA navigations in your application. ([#10916](https://github.com/remix-run/react-router/pull/10916))
 
@@ -101,7 +101,7 @@ For an example usage of View Transitions, check out [our fork](https://github.co
 
 For more information on using the View Transitions API, please refer to the [Smooth and simple transitions with the View Transitions API](https://developer.chrome.com/docs/web-platform/view-transitions/) guide from the Google Chrome team.
 
-### Stable `createRemixStub`
+### Stable `createRemixStub` 🔒
 
 After real-world experience, we're confident in the [`createRemixStub`](https://remix.run/docs/utils/create-remix-stub) API and ready to commit to it, so in `2.1.0` we've removed the `unstable_` prefix. ([#7647](https://github.com/remix-run/remix/pull/7647))
 
